@@ -1,3 +1,3 @@
-if (2 = 2){
-    console.log("Correct!");
+if (2 = 4){
+    console.log("Incorrect!");
 }
